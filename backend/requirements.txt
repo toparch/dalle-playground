@@ -8,3 +8,4 @@ accelerate
 transformers
 diffusers
 werkzeug==2.2.2
+jax==0.4.23
